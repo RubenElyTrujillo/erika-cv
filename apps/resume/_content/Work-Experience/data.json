@@ -1,0 +1,87 @@
+{
+  "title": "EXPERIENCIA LABORAL",
+  "list": [
+    {
+      "name": "Sublicenter",
+      "position": "Estratega de Marketing",
+      "startDate": "2021.02",
+      "endDate": "2022.05",
+      "description": "",
+      "projects": [
+        {
+          "title": {
+            "text": "Estratega de Marketing",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "",
+          "startDate": "",
+          "endDate": "",
+          "which": [
+            "Creo y gestiono estrategias de marketing digital a través de la creación de contenidos y manejo de las comunidades en Facebook e Instagram.", 
+            "Diseño campañas en Facebook y Google Ads para el logro de objetivos de ventas."
+          ],
+          "techStack": [
+            "Facebook Ads", 
+            "Google Ads"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Monstruo Canela",
+      "position": "Community Manager",
+      "startDate": "2020",
+      "endDate": "",
+      "description": "",
+      "projects": [
+        {
+          "title": {
+            "text": "Community Manager",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "role": "",
+          "description": "",
+          "startDate": "",
+          "endDate": "",
+          "which": [
+            "Gestioné las redes sociales de hasta 15 cuentas simultáneamente",
+            "Hacer reportes mensuales, crear, subir y programar contenido a Facebook, Instagram y Pinterest y hacer campañas en Facebook Ads"
+          ],
+          "techStack": [
+            "Facebook Ads"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Azul Clarito Marketing",
+      "position": "Content Creator",
+      "startDate": "",
+      "endDate": "",
+      "description": "",
+      "projects": [
+        {
+          "title": {
+            "text": "Content Creator",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "role": "",
+          "description": "",
+          "startDate": "",
+          "endDate": "",
+          "which": [
+            "Colaboré en el desarrollo de análisis del mercado",
+            "Llevé a cabo reportes de rendimiento web",
+            "Crear contenido de valor para las páginas web y las redes sociales de cuentas activas de la agencia"
+          ],
+          "techStack": [
+            "Facebook Ads"
+          ]
+        }
+      ]
+    }
+  ]
+}

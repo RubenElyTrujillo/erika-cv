@@ -1,0 +1,28 @@
+{
+  "title": "Cursos y Congresos",
+  "list": [
+
+    {
+      "name": "Cursos",
+      "descriptions": [
+        "Copywriting para anuncios. Escuela de Copywriting ABC del Copywring",
+        "Escuela de Copywriting",
+        "Crea ofertas irresistibles para productos y servicios",
+        "Convierte más escuela",
+        "Viral Marketing and How to Craft Contagius Content",
+        "Storytelling:El arte de contar historias",
+        "Crehana: La evolución del Internal Branding",
+        "Crehana: Community Manager."
+      ]
+    },
+    {
+      "name": "Congresos",
+      "descriptions": [
+        "UVP. Transformación Digital en los negocios. 2019. Courtyard Marriot",
+        "UVP. Tendencias en los negocios 3.0. 2018. CCU",
+        "UVP: La reingeniería en los negocios. 2017. CCU",
+        "UVP. La sinergia como factor de éxito empresarial. 2016. CCU"
+      ]
+    }
+  ]
+}
